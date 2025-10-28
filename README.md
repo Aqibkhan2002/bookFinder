@@ -33,7 +33,7 @@ A modern, responsive React web application for searching and discovering books u
 - **UI Components**: shadcn/ui component library
 - **Icons**: Lucide React icons
 - **Build Tool**: Vite (bundler and dev server)
-- **Package Manager**: pnpm
+- **Package Manager**: npm
 - **API**: Open Library Search API
 - **State Management**: React Hooks (useState, useCallback, useEffect)
 - **Custom Hooks**: useBookSearch for API integration
@@ -70,7 +70,7 @@ book-finder-react/
 
 ### Prerequisites
 - Node.js 18+ 
-- pnpm (recommended) or npm
+- npm
 
 ### Installation Steps
 
@@ -82,15 +82,11 @@ book-finder-react/
 
 2. **Install dependencies**
    ```bash
-   pnpm install
-   # or
    npm install
    ```
 
 3. **Start the development server**
    ```bash
-   pnpm run dev
-   # or
    npm run dev
    ```
 
@@ -101,8 +97,6 @@ book-finder-react/
 ### Build for Production
 
 ```bash
-pnpm run build
-# or
 npm run build
 ```
 
