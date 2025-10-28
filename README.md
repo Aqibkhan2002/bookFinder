@@ -239,5 +239,5 @@ This project is open source and available under the MIT License.
 - **Vite**: Next generation frontend tooling
 
 
-**Built with ❤️ using React and modern web technologies**
+**Built with ❤️ by Aqib Khan using React and modern web technologies**
 
